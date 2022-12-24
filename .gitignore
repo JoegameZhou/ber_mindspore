@@ -127,3 +127,16 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# 
+model_save
+akg_kernel_meta/
+data/
+graphs/
+*.log
+*.key
+rank_*/
+outputs/
+kernel_meta/
+dataset/
+finetuningSST2/
